@@ -44,10 +44,11 @@ See also the my website [Jerald Austero](http://www.jeraldaustero.esy.es/).
 ## Sample Screenshot
 
 Landing Page
-![Landing Page](https://github.com/JaoAustero/patientsystem/blob/master/img/1.png?raw=true)
+![Landing Page](https://github.com/JaoAustero/Online-Appointment/blob/master/img/1.png?raw=true)
+
 
 Dashboard
-![Dashboard](https://github.com/JaoAustero/patientsystem/blob/master/img/2.png?raw=true)
+![Dashboard](https://github.com/JaoAustero/Online-Appointment/blob/master/img/2.png?raw=true)
 
 Patient Record
-![Patient Record](https://github.com/JaoAustero/patientsystem/blob/master/img/3.png?raw=true)
+![Patient Record](https://github.com/JaoAustero/Online-Appointment/blob/master/img/3.png?raw=true)
