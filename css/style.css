@@ -1,0 +1,104 @@
+.nav-style{
+      border-color: #0094ff;
+      border-bottom: solid 4px;
+}
+
+.wrapper{
+      width: 90%;
+      margin: auto;
+}
+
+.home-bg{
+      padding: 10%;
+
+      background-color: #777777!important;
+      background-image: url(../img/doctor-bg.jpg);
+      background-position: center;
+      background-size: cover;
+
+      background-blend-mode: multiply;
+}
+
+.info-card{
+      overflow: hidden;
+
+      height: 250px;
+      padding: 20px 5px 5px 5px!important;
+}
+
+.signin-bg{
+      position: fixed;
+
+      width: 100% auto;
+      height: 100% auto;
+
+      background-color: #777777!important;
+      background-image: url(../img/bg.jpg);
+      background-size: cover;
+
+      background-blend-mode: multiply;
+}
+
+.card-content-style{
+      position: fixed;
+      top:0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+
+      width: 500px;
+      height: 320px;
+      margin: auto;
+}
+
+.card-header{
+      padding: 2%;
+
+      background-color: #0094ff;
+}
+
+.btn-max-width{
+      width: 100%;
+}
+
+.side-nav{
+      width: 250px;
+}
+
+.main-content{
+      padding-left: 250px;
+}
+
+.thead{
+      background-color: grey;
+}
+
+.medical-record{
+      width: 50%;
+      margin: auto;
+}
+
+body::-webkit-scrollbar {
+    width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #1E87F0;
+}
+
+
+.side-nav::-webkit-scrollbar {
+    width: 5px;
+}
+
+.side-nav::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.1);
+}
+
+.side-nav::-webkit-scrollbar-thumb {
+  background-color: grey;
+}

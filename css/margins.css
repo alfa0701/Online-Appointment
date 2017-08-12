@@ -1,0 +1,136 @@
+/* Extra Small*/
+.margin-top{
+    margin-top: 10px!important;
+}
+
+.margin-left{
+    margin-left: 10px!important;
+}
+
+.margin-bottom{
+    margin-bottom: 10px!important;
+}
+
+.margin-right{
+    margin-right: 10px!important;
+}
+
+/*Small*/
+.margin-small-top{
+    margin-top: 20px!important;
+}
+
+.margin-small-left{
+    margin-left: 20px!important;
+}
+
+.margin-small-bottom{
+    margin-bottom: 20px!important;
+}
+
+.margin-small-right{
+    margin-right: 20px!important;
+}
+
+/*Medium*/
+.margin-medium-top{
+    margin-top: 30px!important;
+}
+
+.margin-medium-left{
+    margin-left: 30px!important;
+}
+
+.margin-medium-bottom{
+    margin-bottom: 30px!important;
+}
+
+.margin-medium-right{
+    margin-right: 30px!important;
+}
+
+/*Large*/
+.margin-large-top{
+    margin-top: 40px!important;
+}
+
+.margin-large-left{
+    margin-left: 40px!important;
+}
+
+.margin-large-bottom{
+    margin-bottom: 40px!important;
+}
+
+.margin-large-right{
+    margin-right: 40px!important;
+}
+
+
+/*xlarge*/
+.margin-xlarge-top{
+    margin-top: 50px!important;
+}
+
+.margin-xlarge-left{
+    margin-left: 50px!important;
+}
+
+.margin-xlarge-bottom{
+    margin-bottom: 50px!important;
+}
+
+.margin-xlarge-right{
+    margin-right: 50px!important;
+}
+
+/*xxlarge*/
+.margin-xxlarge-top{
+    margin-top: 60px!important;
+}
+
+.margin-xxlarge-left{
+    margin-left: 60px!important;
+}
+
+.margin-xxlarge-bottom{
+    margin-bottom: 60px!important;
+}
+
+.margin-xxlarge-right{
+    margin-right: 60px!important;
+}
+
+/*xxxlarge*/
+.margin-xxxlarge-top{
+    margin-top: 70px!important;
+}
+
+.margin-xxxlarge-left{
+    margin-left: 70px!important;
+}
+
+.margin-xxxlarge-bottom{
+    margin-bottom: 70px!important;
+}
+
+.margin-xxxlarge-right{
+    margin-right: 70px!important;
+}
+
+/*Remove Margin*/
+.margin-top-remove{
+    margin-top: -10px!important;
+}
+
+.margin-left-remove{
+    margin-left: -10px!important;
+}
+
+.margin-bottom-remove{
+    margin-bottom: -10px!important;
+}
+
+.margin-right-remove{
+    margin-right: -10px!important;
+}
